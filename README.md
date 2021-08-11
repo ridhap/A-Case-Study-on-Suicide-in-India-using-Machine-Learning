@@ -1,4 +1,7 @@
-In this Suicide Case Study, I tried to solve the following data analysis and prediction :-
+### A-Case-Study-on-Suicide-in-India-using-Machine-Learning
+
+
+**In this Suicide Case Study, I tried to solve the following data analysis and prediction :-
 
 -Total suicides in India,
 
